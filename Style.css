@@ -285,3 +285,8 @@ body{
     justify-content: space-between;
     padding : 20px;
 }
+.small_box:hover
+{
+    cursor:pointer;
+    background-color: #505050;
+}
